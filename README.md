@@ -44,13 +44,24 @@ p{
   }
 
 
+#header_wrap{
+display:none;
+}
 
+#main_content_wrap{
+padding-bottom: 6rem;
+}
+
+#footer_wrap{
+#footer_wrap
+}
 
 
 </style>
 
 # Manuel des Ventes de l'EPV : Interventions Christian Bonato
 
+---
 
 ## **Avril 2014**  
 
