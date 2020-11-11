@@ -23,6 +23,10 @@ $('a').attr('target','_blank');
   font-size: 1.4rem;
   }
   
+  .inner{
+      max-width: 75vw;
+  }
+  
   h1 {
     margin-top: 3rem;
     font-size: 2rem;
