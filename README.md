@@ -20,7 +20,7 @@ $('a').attr('target','_blank');
 <style>
   
   body{
-  font-size: 1.4rem;
+  font-size: 1.15rem;
   }
   
   .inner{
@@ -51,6 +51,9 @@ p{
   line-height: 2.2rem;
   }
 
+li{
+padding-top: 0.3rem;
+}
 
 #header_wrap{
 display:none;
@@ -60,8 +63,10 @@ display:none;
 padding-bottom: 6rem;
 }
 
+
+
 #footer_wrap{
-#footer_wrap
+display:none;
 }
 
 
