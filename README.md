@@ -49,11 +49,10 @@ p{
 
 </style>
 
-# Interventions Christian Bonato sur le Manuel des Ventes de l'EPV
+# Manuel des Ventes de l'EPV : Interventions Christian Bonato
 
 
 ## **Avril 2014**  
-
 
 
 ### Décomptes jours / homme
