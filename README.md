@@ -1,7 +1,4 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-
-
-
 <script>
   
   $(document).ready(function(){
@@ -10,11 +7,7 @@ $('a').attr('target','_blank');
     $('a[href$=".pdf"]').attr('target', '_blank');
   });
   
-  
-  
- </script>
-
-
+</script>
 
 
 <style>
@@ -32,18 +25,15 @@ $('a').attr('target','_blank');
     font-size: 2rem;
 }  
 
-
 h2 {
     margin-top: 2rem;
     font-size: 1.6rem;
 } 
 
-  
 h3 {
     margin-top: 2rem;
     font-size: 1.2rem;
 } 
-
 
 p{
   margin-top: 2.6rem;
@@ -55,6 +45,10 @@ li{
 padding-top: 0.3rem;
 }
 
+a:visited {
+  color: purple;
+}
+
 #header_wrap{
 display:none;
 }
@@ -63,14 +57,12 @@ display:none;
 padding-bottom: 6rem;
 }
 
-
-
 #footer_wrap{
 display:none;
 }
 
-
 </style>
+
 
 # Manuel des Ventes de l'EPV : Interventions Christian Bonato
 
