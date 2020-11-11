@@ -19,6 +19,10 @@ $('a').attr('target','_blank');
 
 <style>
   
+  body{
+  font-size: 1.4rem;
+  }
+  
   h1 {
     margin-top: 3rem;
     font-size: 2rem;
