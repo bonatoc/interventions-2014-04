@@ -71,6 +71,17 @@ display:none;
 ## **Avril 2014**  
 
 
+### Licence d'exploitation logiciel  
+  
+ - Back-End (Intranet/Extranet) : Licence mensuelle 100 postes
+ - Front-End (Web App) : Licence mensuelle 100 000 postes (web, clés USB)
+
+| Montant licence | Montant réglé |  
+|--|--|--|--|  
+| 1 800 € | 0 € |  
+
+---
+
 ### Décomptes jours / homme
 
 |Jours/Homme| Montant interventions | Montant réglé |
